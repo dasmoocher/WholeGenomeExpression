@@ -1,2 +1,2 @@
 # viSRA_too
-Viewing genome expression on the gene and genome level
+Viewing RNA expression on the gene and genome level using sequencing reads in the SRA database
